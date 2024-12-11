@@ -1,0 +1,13 @@
+.errorcont{
+    width:100%;
+    height: 500px;
+    display: flex;
+}
+.errorcont1{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.errorcont2{
+    width: 50%;
+}
